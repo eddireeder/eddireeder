@@ -6,7 +6,7 @@ I've built tonnes of cool side projects, some you can see here, and others I'll 
 
 Got an idea? 💡 Looking to collaborate? 👯 Just want a chat? 💬 Don't hesitate to get in touch ... 
 
-Connect via 👤 [LinkedIn](https://www.linkedin.com/in/edward-reeder/) & 📫 [Email](mailto:e.reeder1997@gmail.com).
+Connect via [LinkedIn](https://www.linkedin.com/in/edward-reeder/) & [Email](mailto:e.reeder1997@gmail.com).
 <!--
 **eddireeder/eddireeder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
