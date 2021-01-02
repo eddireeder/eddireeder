@@ -2,7 +2,7 @@
 
 I'm a computer science graduate with an interest in all things software! I've dabbled in **3D computer vision**, **android app development**, and a whole lot of **web technologies**!
 
-I've built tonnes of cool side projects, some you can see here, and I'll be happy to tell you about.
+I've built tonnes of cool side projects, some you can see here, and others I'll be happy to tell you about.
 
 Got an idea? 💡 Looking to collaborate? 👯 Just want a chat? 💬 Don't hesitate to get in touch ... 
 
